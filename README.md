@@ -1,2 +1,5 @@
 # JenkinsDemo
-Jenkins Demo file with Git configuration
+Jenkins Demo file with Git configuration 
+
+# pom.xml
+file added
